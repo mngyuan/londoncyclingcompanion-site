@@ -6,7 +6,7 @@ export default function Home() {
     <div
       className={`flex flex-col min-h-screen items-center justify-between bg-grey-300`}
     >
-      <main className="grow flex flex-col items-center justify-between p-8 lg:py-32 lg:pb-16 lg:px-16 select-none">
+      <main className="grow flex flex-col items-center justify-between p-8 lg:py-32 lg:pb-16 lg:px-16 select-none gap-2">
         <div className="grow flex flex-col items-center justify-center">
           <Image
             src="/lcc.png"
