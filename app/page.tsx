@@ -17,20 +17,12 @@ export default function Home() {
           />
         </div>
         <div className="flex flex-row gap-4 lg:gap-16">
-          <Link href="#">
+          <Link href="https://testflight.apple.com/join/gZUwDgTJ">
             <Image
               src="/app-store-badge.svg"
               alt="Download on the App Store"
               width={150}
               height={50}
-            />
-          </Link>
-          <Link href="#">
-            <Image
-              src="/google-play-badge.png"
-              alt="Get it on Google Play"
-              width={175}
-              height={80}
             />
           </Link>
         </div>
