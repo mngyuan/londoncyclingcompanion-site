@@ -17,7 +17,7 @@ export default function Home() {
           />
         </div>
         <div className="flex flex-row gap-4 lg:gap-16">
-          <Link href="https://testflight.apple.com/join/gZUwDgTJ">
+          <Link href="https://apps.apple.com/us/app/london-cycling-companion/id6756794609">
             <Image
               src="/app-store-badge.svg"
               alt="Download on the App Store"
